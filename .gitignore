@@ -1,0 +1,7 @@
+node_modules/  
+captured_chunks/  
+.auth_cache/  
+.env  
+*.json  
+!package.json  
+!package-lock.json 

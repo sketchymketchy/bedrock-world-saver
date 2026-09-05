@@ -1,0 +1,21 @@
+{
+  "name": "bedrock-world-saver",
+  "version": "1.0.0",
+  "description": "Universal Minecraft Bedrock chunk interceptor and world rescue utility.",
+  "main": "rescue.js",
+  "scripts": {
+    "start": "node rescue.js"
+  },
+  "keywords": [
+    "minecraft",
+    "bedrock",
+    "world-rescue",
+    "packet-interceptor",
+    "bedrock-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bedrock-protocol": "^3.30.0"
+  }
+}
